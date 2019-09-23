@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dog_names">
+        <item>Husky</item>
+        <item>German Shepard</item>
+        <item>Shih Tzu</item>
+        <item>Golden retriever</item>
+        <item>Rottweiler</item>
+        <item>Pitbull</item>
+        <item>Chihuahua</item>
+        <item>Labrador</item>
+    </string-array>
+
+    <string-array name="cat_names">
+        <item>Siberian</item>
+        <item>Tabby</item>
+        <item>Orange</item>
+        <item>Calico</item>
+        <item>Persian</item>
+        <item>Siamese</item>
+        <item>Hairless</item>
+        <item>Bengal</item>
+    </string-array>
+
+</resources>
